@@ -1,0 +1,31 @@
+ @media screen and (max-width: 990px){
+
+    ul.navbar-nav{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+    }
+    nav a.nav-link{
+        margin-bottom: 20px;
+    }
+
+   
+
+
+ }
+ 
+ @media screen and (min-width:991px){
+    .contact-us .contact-form{
+        flex-wrap: nowrap;
+    }
+
+
+    .contact-us .container{
+        width: 72%;
+    }
+    
+
+
+ }
